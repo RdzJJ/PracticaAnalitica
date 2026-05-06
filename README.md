@@ -204,6 +204,6 @@ Antes de entregar, verifica que existan:
 
 ## 👤 Autor
 
-**Estudiante:** Universidad [Noveno Semestre]  
+**Estudiante:** Julián Andrés Rodríguez Jiménez
 **Fecha:** Mayo 2026  
 **Código:** Práctica 4 — Calidad y Minería de Datos
